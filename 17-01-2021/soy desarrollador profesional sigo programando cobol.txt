@@ -1,0 +1,44 @@
+soy desarrollador profesional sigo programando cobol
+
+
+
+En 2019 el lenguaje de programación 
+. Y pese a que 
+ muchos lenguajes más modernos e intuitivos, 
+ en sectores tan importantes como 
+.
+Quizá por eso 
+. Aunque no ha sido fácil localizarles, hemos hablado con dos de ellos para que nos cuenten el por qué de su decisión y cómo es trabajar para un lenguaje casi eterno. 
+Alberto Conejero tiene 38 años y es responsable de un equipo de 4 personas para Serbatic desde hace 2. Todos ellos están especializados en el lenguaje de programación COBOL. 
+Reconoce que desarrollar su carrera en este lenguaje 
+. “A raíz de una de las famosas fusiones entre entidades bancarias y los solapes entre departamentos y cambios de organigrama, el equipo al que pertenecía pasó de trabajar de PL/SQL con Oracle a realizar procesos JCL y programas en COBOL para alimentar bases de datos en Teradata”, nos cuenta.
+Gregorio Arroyo, por su parte, es el gerente y propietario de AG Informática y Servicios. Además de las labores de gerencia, este licenciado en Física desde 1978 también se dedica al mantenimiento y 
+. Un año después de salir de la facultad, la multinacional NCR “me seleccionó para una formación en Madrid, que incluía la formación y el desarrollo de aplicaciones en COBOL”, recuerda.
+Arroyo, que también tenía conocimientos de otros lenguajes como Basic o Fortran, asegura que cuando vio COBOL por primera vez “me pareció muy estricto con las normas de generación de código”. Algo que se supera cuando “uno se hace con ellas, después es coser y cantar”, asegura.
+Lo que le acabó impulsando a apostar por COBOL fue que en aquella época, cuando entró en contacto con este lenguaje, tenía la formación adecuada y “era ya el lenguaje más común y más profesional para el desarrollo de aplicaciones para empresas”, asegura Arroyo.
+Cuando se topó con COBOL, Conejero reconoce que, 
+. Pero lo achaca a que “aún no conocía la tecnología, su historia, su sencillez, rapidez, etc. Además, las personas que programaban en COBOL ya eran mayores y pensaba que era una tecnología que iba a morir en breve”.
+Tras estudiar los Ciclos de Grado Superior de Administración de Sistemas Informáticos y de Desarrollo de Aplicaciones Informáticas, Alberto Conejero se había formado académicamente en C++ y Visual Basic y había  trabajado durante muchos años con SQL, JavaScript y HTML. E incluso ha realizado varios cursos en C#, .NET y Java. Sin embargo Conejero asegura que tras esa primera toma de contacto y reacción al toparse con COBOL, al poco tiempo se dio cuenta del “potencial, la rapidez y fiabilidad que tiene este lenguaje”. 
+Mientras, Gregorio Arroyo reconoce que ha experimentado con otros lenguajes como C** o Javascript, pero, en su opinión, “
+”. Y, además, reconoce que a su edad “ya se me hace difícil cambiar a otra forma de programación”.
+Pero además, este profesional asegura que en toda su experiencia profesional “no me he encontrado en COBOL con limitaciones que me obligaran a utilizar otro lenguaje. El COBOL que utilizo ha evolucionado en este tiempo, al igual que el resto, para adaptarse a requerimientos tecnológicos de cada momento”.
+Si tuviera que definir COBOL, Alberto Conejero asegura que es “sencillo, rápido y fiable”. Mientras, Arroyo valora que su forma de programación se asemeja al lenguaje natural en inglés, “además de la fiabilidad y seguridad en la gestión de datos”.
+En el otro lado de la balanza, a Conejero le pesa que estamos ante un 
+ que otros. Y, tal y como se lamenta Arroyo, otro de sus puntos débiles es que la mayoría de los fabricantes de COBOL “han sido absorbidos por un único proveedor que es Micro Focus, y 
+”, asegura. Una concentración que “obliga al pago de licencias runtime por el uso de aplicaciones desarrolladas en este lenguaje, que normalmente encarece las aplicaciones”.
+Gregorio Arroyo reconoce que COBOL es un lenguaje poco moderno. Tanto que ni siquiera se enseña. “Los que quedamos ya somos de la “vieja guardia””, asegura. 
+Conejero también reconoce que “hay pocas personas formadas y con experiencia en este lenguaje, principalmente entre desarrolladores jóvenes que se centran en otros lenguajes más actuales”. Pero incluso entre los 
+ tampoco es sencillo encontrar aquellos que hayan seguido teniendo en COBOL su lenguaje favorito o de trabajo. “Por lo que he podido ver en los sectores en los que he trabajado 
+ progresivamente o les queda poco”, nos explica. ¿La parte positiva? “Probablemente aumentará la demanda de profesionales de este perfil”.
+Además, Conejero cree que la mayoría de los programadores que trabajan en otras tecnologías o lenguajes en el sector de la banca, seguros o medios de pago, “antes o después se toparán con este lenguaje, si no lo han hecho ya”, por lo que “como mínimo”, animaría a otros desarrolladores a conocer este programa.
+¿Está bien pagado ser programador de COBOL, dado que hay pocos expertos en la materia? El salario “está equiparado al resto de lenguajes”, asegura Conejero. 
+Arroyo, mientras tanto, considera que en la actualidad cualquier desarrollo de aplicaciones está “poco valorado”. “La mayoría tiene asumido que estas son casi gratis. Está poco valorado un desarrollador y más en COBOL, porque 
+”, denuncia. La excepción estaría en “empresas importantes que tiene y utilizan software desarrollado en COBOL”.
+Las empresas que hacen negocio con COBOL lo tienen claro: este lenguaje de programación tiene futuro. Y mucho.
+Alberto Conejero, por ejemplo, se muestra convencido de que COBOL ha cumplido 60 años pero aún tiene una larga vida por delante, sobre todo porque “está ligado a sectores como banca, seguros, medios de pago, etc.”. Por eso, no duda en afirmar que “puede que siga 
+”.
+Pero Arroyo se muestra en el lado opuesto. “Creo que 
+” y que solo durará “mientras haya aplicaciones desarrolladas en dicho entorno”. Y por eso no animaría a especializarse en este lenguaje. “El mercado lo copan, Google, Amazon .. y estos recomiendan nuevos lenguajes”. 
+En lo que coinciden los dos es en que COBOL es visto de muchas maneras, menos como algo atractivo. “Muchos perciben a COBOL como algo viejo y obsoleto. Pero creo que 
+”, enfatiza Conejero. “Hay una frase que se atribuye a Bill Gates: “No sé qué lenguajes habrá en el futuro, pero seguro que COBOL estará todavía allí”. Así que creo que a COBOL le queda aún mucho que ofrecernos”, subraya.
+Fotos | Wikimedia

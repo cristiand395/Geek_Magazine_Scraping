@@ -1,0 +1,79 @@
+21 programas aplicaciones gratis para retocar
+
+
+
+Te traemos una colección con 
+ y hacer tus retoques, ya sean rápidos y sencillos o algo más profundos. Te vamos a intentar ofrecer tanto las más populares como otras menos conocidas, y que podrían servirte de alternativa si quieres explorar en busca de nuevas herramientas.
+, aunque también vamos a incluir algunas aplicaciones web para usar desde cualquier navegador, y otras móviles. También tendrás algunas apps para móvil y Windows adaptadas al PC, con el punto en común de tener un coste gratuito.
+Nosotros te proponemos estas 21, pero como decimos siempre en Xataka Basics, te queremos invitar a que 
+. Así, todos podremos aprender de nuestra comunidad de xatakeros y descubrir algunos proyectos o herramientas que se nos hayan pasado por alto.
+ es un programa de código abierto que ha sido creado para aspirar a sustituir a otros programas de pago, ofreciendo también todas las herramientas necesarias para el retoque fotográfico.  Además, otra de sus grandes bazas es que 
+, estando disponible para Windows, macOS, FreeBSD y múltiples 
+.
+Esta aplicación está enfocada al tratamiento de las fotos que vienen directamente de la cámara fotográfica en formato RAW, para hacer las veces de revelado digital. Sin embargo, también tiene muchas otras opciones de retoque que te pueden servir.
+Esta es una alternativa un poco diferente al resto de la lista, porque no es una aplicación o programa como la mayoría que hemos tratado, sino 
+. Fotor no es una aplicación que busque darte todas las opciones del mundo, sino que está diseñada para permitirte hacer retoques rápidos con un solo click.
+Por lo tanto, te ofrece varias opciones de 
+, que la convierten en una herramienta rápida de utilizar. La mala noticia es que si solo quieres retocar partes concretas de una foto, entonces posiblemente se te quede corta. Tiene una versión gratuita y una de pago, siendo la gratis bastante completa con opciones como la de editar grupos de fotos.
+GIMP es posiblemente una de las mejores aplicaciones de edición fotográfica que te puedes encontrar. Y no solo eso, sino que 
+, lo que quiere decir que toda la comunidad puede ver cómo funciona y ayudar a solucionar fallos, y que nunca vas a tener que pagar nada por utilizarla.
+Se trata de un programa pensado para ser 
+, por lo que no le van a faltar las opciones más avanzadas para editar tus fotografías, trabajar con capas y demás. También ofrece las opciones más sencillas, filtros y muchos otros detalles para usarla tanto para ediciones rápidas como para creaciones más complejas.
+, lo que quiere decir que sus creadores han utilizado el código abierto de GIMP para 
+. Se trata de una alternativa que busca 
+, y que los usuarios que están acostumbrados a la aplicación de Adobe tengan más fácil el salto.
+Se trata de un programa muy joven que nace tras los desencuentros con el mod de GIMP llamado 
+, y que buscaba precisamente 
+ GIMP. Si quieres darle una oportunidad, es un proyecto que irá creciendo con el paso de los meses y la llegada de nuevas versiones.
+Cambiando un poco de tercio, inPixio es otro excelente editor gratuito de fotos con el que puedes hacer varios tipos de retoques. Pese a ser gratis, no sólo te ofrece una gran cantidad de filtros, sino que también añade muchísimas opciones de edición que van desde efectos como hacer la foto antigua hasta muchas otras mejores, incluyendo recortes, ajustes en los colores y más.
+ 
+Krita es un excelente programa de pintura digital diseñado especialmente para artistas que trabajan con ilustración, historietas, arte conceptual, pintura, y demás. Es una herramienta 
+, con versiones para Windows, Linux y macOS.
+Tiene una interfaz del usuario intuitiva que no se interpone en tu trabajo, con paneles que puedes mover y personalizar para adecuarlos a tu estilo de trabajo. También cuenta con estabilizadores de pincel, paleta emergente, motores de pincel, modo de envoltura y administrador de recursos. Y evidentemente, como imaginas, también te va a servir para retocar fotografías, aunque quizá no de forma tan intuitiva.
+Es otro de los editores de fotografía más populares y veteranos del panorama. Originalmente fue patrocinado por Microsoft, formando parte de un proyecto de algunos alumnos universitarios. Y después de eso, la herramienta empezó a volar por si misma y a seguir evolucionando por su cuenta dentro del ámbito educativo.
+Inicialmente, Paint.NET buscaba ser un sustituto del mítico Paint de Microsoft, pero con el paso de los años ha ido convirtiéndose en una herramienta mucho más completa y 
+, como añadir capas, efectos especiales, y todo tipo de ediciones avanzadas. 
+Este es un programa profesional que puedes bajar gratis, y que 
+ a la hora de permitirte retocar tus fotos. La herramienta gratuita es suficiente para la mayoría de retoques sencillos, contando con una interfaz que busca la sencillez de uso para que no te pierdas en los menús como puede pasar con Photoshop o GIMP.
+Una buena característica de esta aplicación es que si pese a sus esfuerzos te parece muy complicada de entender, también ofrece un diseño opcional para usuarios primerizos, que lo readapta todo a una estética basada en filtros. La gran limitación de esta versión gratuita es que sólo puedes exportar tus fotos a una resolución máxima de 1.024x1.024 píxeles.
+Seguimos ahora con otra aplicación web. Existen una gran cantidad de editores de fotos online, pero en esta lista vamos a proponer pocos para centrarnos en las aplicaciones instalables. Sin embargo, 
+ es un editor orientado al uso profesional, una alternativa a Photoshop y GIMP, tan bueno que merece la pena mantenerlo aquí. 
+Para ello, cuenta con características como poder trabajar con capas y máscaras, modos de fusión para combinar capas, selecciones, y ajustes como el tono, la saturación, desenfoques o timidez. Todo lo que ofrecen los grandes, junto al resto de opciones básicas. La diferencia con otras alternativas es que 
+, buscando ser una solución online para aquellos acostumbrados a trabajar con el editor de Adobe.
+Una herramienta que tiene varias versiones, desde la versión móvil que tienes para Android, iOS o Windows 10 adaptada al escritorio, hasta una versión gratuita especialmente hecha para Windows. Es una alternativa a Snapseed y VSCO para ediciones rápidas y sencillas, con una buena colección de ajustes sencillos y presets. Más enfocada a compartir fotos en redes sociales, pero que sirve para retoques rápidos.
+Personalmente, llevo ya varios años utilizando PhotoScape X en Windows 10, y todas las capturas que veis editadas en Xataka Basics han sido editadas con esta aplicación. Es una herramienta que tiene muchas funciones, desde su visor de fotos hasta su completo editor, centrado en las funciones básicas pero también con varias avanzadas.
+Vas a poder aplicar todo tipo de efectos de color y filtros a tus fotografías, recortes y transformaciones, añadir figuras, combinarlas y crear collages. También puedes editar varias fotos a la vez, trabajar con capas, aplicar marcos o trabajar con imágenes en RAW. Es una herramienta entre medio de las básicas y las avanzadas, que intenta ponértelo fácil.
+Photoshop Express es el hermano menor de la potente aplicación fotográfica de Adobe. No tiene tantas opciones avanzadas, pero ofrece muchas de las opciones necesarias para hacer buenas ediciones fotográficas 
+.  Eso sí, con compatibilidad reducida a archivos de cámara sin formato, y archivos con formatos JPG y PNG.
+Por lo demás, la aplicación 
+, con elementos táctiles y de fácil acceso. Aun así, no debes preocuparte, porque además de Android e iOS, también hay una versión en la Microsoft Store para descargarlo en Windows. En todos los casos, es una aplicación gratis.
+Es uno de los más populares y completos editores de fotos para dispositivos móviles, aunque también te lo puedes encontrar en la tienda de aplicaciones de Windows para tu PC. Con su versión gratuita no sólo puedes crear collages de hasta 10 imágenes, sino también puedes editar vídeos y fotos. Para ello cuentas con una galería de herramientas que te permite editar la imagen con diferentes efectos visuales, así como recortarlas a tu gusta.
+La aplicación tiene diferentes proporciones prediseñadas para poder subirlas a diferentes redes sociales y webs. Puedes elegir utilizar las proporciones de Instagram, pero también crearlas para Facebook, Twitter, Pinterest o YouTube. Tampoco le faltan las herramientas básicas de edición. Tiene una versión de pago con sincronización entre dispositivos y opciones de edición más avanzadas.
+Esta herramienta es 
+, multiplataforma, y que también es gratuita. Eso sí, pese a ser una competencia directa de Paint, que no ha entrado en la lista por sus limitaciones, 
+ con las que puedes hacer algunos retoques básicos de fotografía.
+Además de las opciones de dibujo clásicas de Paint, Pinta también incorpora 
+, así como múltiples capas para trabajar, un historial completo de cambios, y diferentes visualizaciones para la interfaz. Está disponible tanto para GNU/Linux como para Windows, macOS y FreeBSD.
+Es otra potente herramienta web de edición fotográfica. En su web vas a encontrarte dos tipos de producto, un Pixlr E centrado para la edición más profesional fotográfica y con soporte hasta para imágenes en 4K, y un Pixlr X para las ediciones rápidas con opciones más sencillas para no perder mucho tiempo.
+Polarr es una aplicación que se hizo popular cuando su versión web fue de las primeras en ofrecer soporte para el revelado digital de archivos RAW. Pero también es 
+ que puedes descargar en la 
+, ofreciéndote toda su potencia de forma nativa para no depender de tu conexión.
+Es una herramienta bastante completa, que te permite editar por capas y tiene su sistema de filtros para hacer ajustes rápidos en tus fotos. También tiene opciones avanzadas de edición, con funciones de retoque, histograma, efectos, y todas las herramientas básicas que caben esperar en un programa como este.
+Es una aplicación que busca ser una alternativa para Darktable en el revelado digital de las fotos, y que también 
+, teniendo versiones para GNU/Linux, y las versiones de 64 bits de macOS y Windows 10. Como su nombre indica, ha sido pensada para la edición de fotos en formato RAW, aunque también sirve para el resto de formatos fotográficos comunes.
+Con su motor fotográfico vas a poder realizar completas gestiones en el color de tus fotos, y también en elementos como su tonalidad y su exposición. La herramienta intenta mantener el equilibrio de ofrecer una interfaz que sirva tanto para los usuarios expertos como para los primerizos en este tipo de edición fotográfica.
+Enlace: 
+Se trata de otra aplicación fotográfica enfocada a los dispositivos móviles. De hecho, lleva años siendo 
+ en este campo, sobre todo por ofrecer una interfaz por gestos sencilla de utilizar junto a un buen elenco de herramientas. Todo funciona a través de deslizar el dedo para cambiar de ajustes y cambiar el nivel de cada ajuste.
+Con Snapseed vas a poder desde hacer sencillos recortes hasta ajustes avanzados como modificar la orientación de una cara o borrar objetos. Su principal baza es que 
+, sin anuncios ni sorpresas. Por lo tanto, tienes aquí ya todo lo que vayas a necesitar para editar fotos desde las limitaciones del tamaño de una pantalla de móvil.
+A medias entre red social y 
+, VSCO es una de esas alternativas que no puede faltarte en el móvil, sobre todo si eres usuario de redes como Instagram.  Es una app especializada en permitirte realizar ediciones rápidas que luego puedes compartir rápidamente en redes sociales.
+Por una parte, la app ofrece las clásicas herramientas de edición básicas presentes en todo este tipo de aplicaciones, y por la otra, tiene 
+ listos para ser utilizados. Además, también puedes crear plantillas basadas en tus propias configuraciones personalizadas poder reutilizarlas rápidamente. Tiene una versión de pago con todavía más preconfiguraciones y filtros.
+Y vamos a terminar con el visor fotográfico que viene preinstalado en Windows 10, y que es gratuito para todos los usuarios del sistema operativo. Fotos, tiene 
+ para tus fotos. No son herramientas muy avanzadas, básicamente filtros y algunos ajustes rápidos, pero para apaños rápidos puede serte útil saber que no necesitas instalar nada para lo esencial.
+Además de las ediciones rápidas, Fotos también tiene otras funciones como la de dibujar sobre tu foto, añadir efectos 3D como lluvia o confeti, texto animado o la posibilidad de crear vídeos con música.
+Y como bonus track, vamos a terminar con 
+, que es un programa de creación de diseños. Sin embargo, entre 
+ también ofrece la posibilidad de realizar pequeños retoques fotográficos, aunque no sea una herramienta estrictamente creada para ello. Además, tiene varias integraciones para poder complementarse con otras herramientas online.

@@ -1,0 +1,8 @@
+Links = //h2[@class="abstract-title"]/a/@href
+Titulo = //div[@class="article-header article-normal-header"]/header/h1/span/text()
+Cuerpo = //div[@class="blob js-post-images-container"]/p[not(@class)]/text()
+
+HOME_URL = 'https://www.xataka.com/'
+XPATH_LINK_TO_ARTICLE = '//h2[@class="abstract-title"]/a/@href'
+XPATH_TITLE = '//div[@class="article-header article-normal-header"]/header/h1/span/text()'
+XPATH_BODY = '//div[@class="blob js-post-images-container"]/p[not(@class)]/text()'

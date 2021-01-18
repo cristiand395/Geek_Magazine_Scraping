@@ -1,0 +1,73 @@
+equipo pruebas que hemos elegido para xataka explicado componente a componente procesadores tarjetas
+
+
+
+Por nuestro banco de pruebas pasan los mejores dispositivos lanzados al mercado (o al menos, 
+, que no es poco) y el área de informática no es una excepción: intentamos llevar a fondo los componentes más atractivos y lo hacemos con nuestro equipo de pruebas. Si alguna vez te has preguntado 
+, te lo contamos con la ayuda de Juan Carlos López, uno de nuestros editores expertos en el área.
+, esencialmente procesadores, gráficas y unidades SSD. Para mayor comodidad nuestro montaje es al aire, sin caja, ya que nos resulta más ágil y rápido el poder y quitar componentes.
+Como iremos desgranando en el artículo, 
+. Algunos componentes son exclusivos de cada plataforma, pero otros vamos alternándolos de una plataforma a otra.
+En nuestros análisis de hardware realizamos diferentes pruebas para evaluar su desempeño:
+La elección de los componentes debe cumplir dos parámetros esenciales: han de tratarse de 
+ para poder sacar el máximo partido a cualquier otro componente que queramos analizar. Por ejemplo, si dentro de medio año sale una nueva gráfica, queremos poder probarla con componentes a su altura.
+Además los componentes de nuestra plataforma de pruebas han de permitirnos 
+.
+A partir de aquí hemos conseguido componentes que encajan en este perfil buscando un compromiso entre tener lo último, cesiones de las marcas y que se trate de una configuración competitiva en cuanto a precio.
+: no se trata de elegir lo mejor de lo mejor cueste lo que cueste, sino contar con gama alta con alto rendimiento pero con un precio lo más ajustado posible dentro de ese marco de uso.
+Hemos listado todos nuestros componentes, aunque solo incidiremos en los que más usamos y consideramos más interesantes para los lectores.
+Juanky es tajante: "Nuestra elección es clara: se encuentran entre las más potentes que tienen NVIDIA y AMD en estos momentos."
+Nuestra apuesta por modelos de última generación es 
+.
+Las gráficas tienen una gran incidencia en gaming, de ahí que sea tan importante apostar por modelos que implementen las últimas innovaciones. Como podéis ver en nuestros análisis, ambos modelos 
+, dos características de presente y futuro en el sector.
+Contamos con el buque insignia de AMD, la 
+. Esta gráfica dispone de la nueva arquitectura RDNA2, que logra mejoras que se traducen en mayores frecuencias de reloj en los núcleos gráficos con un consumo bastante contenido. Esta arquitectura también está presente en las consolas de la última generación de Sony y Microsoft.
+Esta ambiciosa gráfica alcanza un rendimiento máximo de 23,04 TFLOPS con 16 GB GDDR6 de memoria VRAM, una configuración para jugar a 2160p en los títulos más ambiciosos del momento y del futuro cercano.
+En nuestro análisis de la Radeon RX 6900 XT comprobamos cómo es sensiblemente más rápida que la GeForce RTX 3080 en buena parte de las pruebas.
+Nuestra segunda gráfica es la 
+, un modelo que si bien no es el más exigente del portfolio de NVIDIA (la 3090 es más potente aún), ofrece una propuesta muy completa con 10 GB GDDR6X de memoria dedicada y 29,77 TFLOPS para rendir a alto nivel ante los escenarios más exigentes en la actualidad.
+Si la comparamos con su homóloga de la generación anterior, Juan Carlos explica que esta RTX 3080 "es mucho más rápida con y sin trazado de rayos. Las nuevas RTX no tienen tecnologías nuevas, pero su arquitectura Ampere les permite 
+".
+Como explica Juan Carlos López "disponemos de dos microprocesadores 
+ diferentes porque las placas base son diferentes, ya que el zócalo y chipset que utiliza un procesador de Intel es diferente al de AMD, lo que nos obliga a tener dos plataformas de prueba".
+A la hora de elegir nuestros procesadores hemos considerado "principalmente su número de núcleos, la cantidad de hilos de ejecución que son capaces de procesar y el trabajo que realizan en cada uno de los ciclos de la señal de reloj."
+Y si nos decantamos por la última generación es porque "el trabajo que realizan en cada ciclo de reloj (conocido como IPC) depende en gran medida de la microarquitectura y también el TDP (Thermal Design Power). "
+El 
+  (
+) es un procesador con 16 núcleos físicos y 32 hilos de ejecución.
+Explica Juan Carlos López que es "
+ (a falta del lanzamiento de los Threadripper), por lo que constituye la opción perfecta para evaluar el rendimiento de otros componentes que van a llegar en el futuro."
+Si disponemos de lo último de AMD en una plataforma, en la otra también apostamos por músculo y modernidad en el otro gran fabricante: Intel. Detalla Juan Carlos que elección del 
+ se debe a que:
+ En nuestros análisis respectivos dispones de pruebas abundantes tanto reales como sintéticas, sirva como resumen esta tabla que además incluye otros procesadores de la casa:
+Procesadores y tarjetas gráficas son los componentes más exigentes, de ahí que nos interese contar con modelos potentes de última generación que permitan exprimir lo que vayamos a analizar. A partir de este punto, nuestras elecciones buscan un 
+.
+Juan Carlos López nos explica que la elección de las placas base ha corrido a cargo de las marcas: "Son las 
+". Así, los modelos elegidos son la Gigabyte Z490 Aorus Master (
+) para procesadores Intel LGA 1200 y la ASUS ROG Crosshair VIII Hero (
+) con chipset AMD X570 para CPU Ryzen 5000.
+En nuestras pruebas llevamos los componentes al máximo nivel de exigencia, de ahí que nos interese una refrigeración que así lo permita. En nuestro caso empleamos el Corsair A500 (
+), que alternamos en ambas plataformas
+De acuerdo con Juan Carlos, "a diferencia de CPU y GPU, donde hemos sido taxativos en nuestra elección, en cuanto a refrigeración hay unas cuantas opciones que encajan en este escenario de uso, tanto dentro de la propia marca como de otros fabricantes como Noctua o Coolermaster, por citar dos ejemplos."
+La memoria RAM de nuestros equipos de pruebas son las Corsair Dominator Platinum de 16 GB (2 módulos de 8 GB cada una, lo mínimo para un equipo potencialmente para jugar 
+) de tipo DDR4 y frecuencia de reloj de 3.600 MHz.
+Explica Juan Carlos que se trata de una "memoria de gama alta que nos 
+, aunque hay memorias más ambiciosas, para nosotros el impacto en el rendimiento va a ser bajo siempre y cuando no practiquemos overclocking, y nosotros no lo aplicamos."
+En este sentido, 
+, tanto de este como de otros fabricantes, que encajarían en nuestro banco de pruebas. 
+La unidad elegida para el almacenamiento es la Samsung 970 EVO Plus NVMe M.2 de 500 GB (
+) y contamos con dos unidades, lo que nos permite tener en cada equipo controladores y software adecuado para ejecutar las pruebas. Según Juan Carlos, la elección se debe a que "estas unidades SSD 
+."
+No obstante, recientemente han salido nuevas unidades PCie Express 4.0 y nuestra idea es actualizarlas lo antes posible como la 
+ que analizamos hace escasas semanas.
+Nuestra elección en cuanto a fuente de alimentación es una Corsair RM750x de 750 vatios (
+). Explica Juan Carlos que es "una buena fuente de alimentación con buena capacidad de entrega de corriente, buenos condensadores, buena calidad, buena capacidad de filtrado y una potencia de 750W que es suficiente para alimentar nuestros componentes."
+López señala que en cualquier caso "No nos interesaría que tuviera menos capacidad de entrega de potencia, pero sí con más."
+No obstante, de nuevo hay más opciones: "Es una fuente de calidad que está a la altura de lo que necesitamos, si bien hay otras alternativas tanto de Corsair como de otros fabricantes conocido con características similares que también nos hubiera servido, como pueden ser Thermaltake o Cooler Master."
+Aunque no es un componente como tal, para nuestras pruebas es necesario contar con un periférico cuyas especificaciones estén a la altura de las pruebas gráficas (con motores de videojuegos reales) que realizamos en nuestros análisis: el elegido es el 
+ (
+). La elección según Juan Carlos se basa en:
+Asímismo, este monitor cuenta con un panel IPS de muy buena calidad, un tiempo de respuesta muy bajo y su frecuencia de refresco de 144Hz.
+Resume Juanky que "no es el mejor monitor gaming que existe, pero 
+ para lo que podemos encontrar: 4K y 144Hz y nos permite evaluar el rendimiento de las gráficas y procesadores que salen al mercado (y que saldrán en los próximos meses)"

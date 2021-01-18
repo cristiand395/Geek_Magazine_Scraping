@@ -1,0 +1,26 @@
+pantallas tinta electronica color avanzan nueva tecnologia e ink hace olvidar colores
+
+
+
+¿Tan difícil es hacer una pantalla de tinta electrónica con soporte de color? Eso parece: llevamos más de 20 años inmersos en el mundo de los lectores de e-books con pantallas monocromas de tinta electrónica, pero esta tecnología 
+.
+Ya ha habido intentos destacables por plantear una solución, pero 
+ (Advanced Color ePaper), un nuevo desarrollo de E Ink que promete colores mucho más vívidos y todas las ventajas de la tinta electrónica en cuanto a eficiencia.
+Esta empresa ya lleva tiempo trabajando en proyectos que ofrezcan este tipo de pantallas. 
+ a esta tecnología, y de hecho está disponible en dispositivos como el 
+, pero ahora los responsables de esta firma están preparando una opción aún mejor.
+Se trata de la 
+, una alternativa a Kaleido (en sus dos generaciones) y que ya está siendo evaluada por algunos fabricantes de lectores de libros electrónicos.
+La primera generación de ACeP estaba más orientada a dispositivos de firma digital, pero 
+ y la idea es aplicar estas pantallas de tinta electrónica a color a lectores de libros electrónicos.
+En E Ink parecen haber solucionado las limitaciones de esa primera generación, que tenía tiempos de resfresco muy largos y 
+. Con la nueva versión de ACeP se logra ofrecer un gamut de color completo mediante el uso de pigmentos coloreados.
+Se usa una única capa de fluido electroforético, y la aplicación del color es superior a la que se consigue con los paneles CFA (Color Filter Array) . Se elimina además la atenuación por la luz, lo que 
+ de los primeros lectores de libros electrónicos con pantalla a color.
+Este tipo de lectores podrían ser por tanto una 
+, un formato que sigue resistiéndose a llegar a los lectores de e-books precisamente por no contar con soporte para color.
+Se espera que estas pantallas sean capaces de mostrar hasta 32.000 colores con una 
+ dependiendo del tamaño de la pantalla. 
+Los primeros productos aún tardarán en llegar, no obstante: la tecnología se irá refinando a lo largo de 2021 y 
+. Eso sí, previsiblemente serán productos con un precio elevado debido a esta novedad tecnológica.
+Vía | 

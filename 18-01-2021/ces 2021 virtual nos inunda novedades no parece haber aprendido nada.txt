@@ -1,0 +1,62 @@
+ces 2021 virtual nos inunda novedades no parece haber aprendido nada
+
+
+
+El mundo sigue (más o menos) confinado. El teletrabajo se impone y plantea un cambio social radical, pero el CES, la feria en la que deberíamos asistir a la respuesta de la industria y a la presentación de soluciones de futuro 
+.
+De hecho este ha sido un CES igual que los del pasado salvo por su formato virtual. Hemos visto una 
+ y que no parecen querer darse cuenta de que la pandemia nos ha cambiado, quizás para siempre. Por ejemplo, ¿dónde están las webcams?
+En Xataka hemos cubierto el CES 2021 con la misma intensidad que en años anteriores: 
+ lo demuestran y representan 
+ para este 2021.
+Portátiles de todos los colores (eso sí, muy gaming),  
+ (porque OLED a secas ahora solo es tendencia en paneles 
+), procesadores y tarjetas gráficas, y, por supuesto, productos que 
+ (y 
+) aunque probablemente 
+ los veamos en la calle 
+.
+Ha habido también productos muy reales, muy originales y muy valientes. El 
+ con 
+ es el mejor ejemplo de esa ambición.
+Qué fantástica idea, quizás algo capada por el hecho de que la pantalla no se pueda girar para convertirla en la principal. 
+ nos hace soñar en que en algún momento esta tecnología se aplique a muchos más monitores como 
+ que vimos hace apenas unas semanas.
+Pero claro, 
+. Intel ha querido decir "ey, no os olvidéis de mí" con un lanzamiento 
+, pero hay que darle una oportunidad (más) a este gigante, sobre todo ahora que 
+ y que parece haber 
+ con algunos movimientos muy esperados.
+No ha habido tampoco grandes sorpresas por parte de AMD, que aunque llegó con un lanzamiento mucho más sólido con sus 
+ para portátiles mantuvo, como Intel, una línea muy continuista y que 
+ (al menos, de momento) de esa revolución que para muchos (y me incluyo) plantean los Apple M1.
+De hecho al ser preguntada por este tema, Lisa Su, CEO de la empresa, solo 
+ que ese chip es una demostración de "cuánta innovación hay en este mercado", pero para ella "sigue habiendo capacidad de innovar en el segmento del PC", como queriendo decir que los chips ARM no parecen ser para AMD una alternativa de futuro 
+.
+Ese continuismo quedó patente en la presentación de unos portátiles que eran (lógicamente) un más de lo mismo. Un poco más potentes en todo, sobre todo en gráficos gracias a las nuevas GPUs de Nvidia, que como se esperaba ya ha logrado integrar sus nuevas RTX 3000 en portátiles. Lo curioso es que haga algo así 
+: no hay prácticamente forma de hacerse con una gráfica dedicada de la nueva generación de Nvidia al precio de venta recomendado.
+La situación es tan mala que esta empresa ha retrasado el lanzamiento de nuevas variantes 
+, pero además varios fabricantes han indicado que 
+ de sus últimos modelos con el argumento de que los impuestos en EEUU han subido para estos productos. 
+.
+Es como si 2020 no nos hubiera enseñado nada. Como si los fabricantes no se hubiesen enterado de que el año pasado 
+: en el cuarto trimestre de 2020 
+ un 26,1% que en el mismo periodo de 2019. El motivo es evidente: la pandemia.
+Pese a ello, los fabricantes no han cambiado la partitura: mucho portátil gaming, mucha tasa de refresco y luces RGB, pero poco portátil de trabajo funcional, poco ordenador de sobremesa compacto y, aunque sea asombroso, 
+, que parecen seguir queriendo exprimir la gallina de los huevos de oro y maximizando los beneficios de sus modelos actualmente disponibles.
+ (en mi opinión, que cada dos semanas planteo los domingos a esta hora alternándome con Javier Lacort) 
+ en este sentido. Lo comentaba hace poco 
+: la Logitech C920 HD Pro costaba en noviembre de 2018 30 euros. Hoy en día cuesta (con suerte) tres veces más.
+Las webcams de los portátiles, mientras 
+. No tienen mucho margen, claro —la tapa sigue siendo demasiado fina para pedir milagros—, pero no hay propuestas de los fabricantes a la hora de solventar el problema. Hasta Apple parece pasar del tema, y sus nuevos MacBook Air y MacBook Pro 13 con el chip M1 mantienen una webcam de la que lo mejor que se puede decir es que es pasable.
+Una de las alternativas es acudir a otros fabricantes de webcams. En Amazon, por ejemplo, 
+ que prometen una calidad estupenda a precios de risa (aviso: o tienes una cosa o la otra, tener ambas es una utopía). Hay algunas propuestas decentes, desde luego, pero es sorprendente que tras meses de pandemia ni Logitech ni ninguna otra empresa haya planteado nuevos productos que alivien una necesidad evidente en estos tiempos.
+Es cierto que 
+ 
+ para este propósito y hay opciones para ello. Incluso hay 
+ una forma de sostener el móvil en la posición en la que tendríamos una webcam, pero no son opciones para el común de los mortales.
+La única propuesta llamativa aquí ha venido de Dell, que durante estos días ha presentado 
+. El ingenioso sistema las esconde cuando no las usamos para evitar suspicacias, y se trata de una de las pocas respuestas a 
+.
+Pero para la industria, al menos 
+. ¿Qué era eso de la nueva normalidad?

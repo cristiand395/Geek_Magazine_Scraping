@@ -1,0 +1,57 @@
+que seguimos buscando numeros primos
+
+
+
+En diciembre de 2018 se descubirió el último de los 
+, un hito que volvía a darle el protagonismo a estos números tan especiales que tienen siempre idéntico formato (2
+-1) y que cada vez tienen 
+. De hecho el número encontrado, 2
+-1, tiene más de 22 millones de dígitos. 
+El descubrimiento parece más una anécdota que otra cosa, y aunque estos números son casi una obsesión para los matemáticos, la realidad es que 
+ en varios ámbitos prácticos y teóricos.  
+El proceso que permite descubrir nuevos números primos de Mersenne es especialmente exigente. 
+ se utilizan para 
+ de los modernos procesadores y permiten saber si estos chips son capaces de soportar cargas de trabajo muy elevadas durante largos periodos de tiempo. 
+Esta es una herramienta especialmente popular entre los 
+, que pueden determinar si al forzar la CPU u otros componentes estas funcionan de forma estable incluso con estas cargas tan elevadas de trabajo. 
+De hecho, este tipo de proceso de computación ayudó a encontrar un 
+ en los 
+ de Intel: al trabajar con Prime95 se descubrió que estos procesadores podían colgarse o causar un comportamiento impredecible del sistema. Intel 
+ y lo ha solucionado a través de una actualización de la BIOS que ha distribuido en colaboración con sus partners en el terreno de las placas base. 
+Esa búsqueda de números primos de Mersenne también se ha convertido en una demostración de lo mucho que puede ofrecer la 
+. El 
+ (Great Internet Mersenne Prime Search) hace precisamente uso del software Prime95 para que la carga de trabajo de la búsqueda de nuevos números primas esté distribuida entre un enorme número de ordenadores en todo el mundo. 
+Cualquiera puede unirse al proyecto, y de hecho al ejecutar el 
+ se nos pregunta si queremos unirnos a esta iniciativa o únicamente pasar un "test de estrés" con el que evaluar precisamente la estabilidad de nuestro equipo. Es uno de los proyectos de informática distribuida más conocidos en todo el mundo, y aunque originalmente Prime95 se centraba en la CPU, hace tiempo se trabaja en una versión GPGPU que precisamente aproveche la enorme potencia bruta de las tarjetas gráficas dedicadas.
+Este proyecto ha sido el responsable del descubrimiento de varios nuevos números primos de Mersenne, y en la actualidad cuenta con un throughput (
+ de los últimos 30 días) de 
+. 
+La cifra es realmente notable y 
+, por encima de todos los supercomputadores de la lista Top500. El número uno de 
+ es Summit, en Estados Unidos, con un una potencia pico de 200.794 TFLOPS.
+EL pasado 21 de diciembre de 2018 
+ precisamente 
+, 2
+-1 —es el primo Mersenne número 51 en toda la historia—, que tiene nada menos que 28.862.048 dígitos. 
+Lo descubrió uno de los 
+ -en la actualidad, más de dos millones de máquinas están registradas en ese singular proyecto- que precisamente usaba este algoritmo para poner a prueba sus sistemas en escenarios de estrés computacional. Hace unos meses se descubría 
+, pero este último es aún más grande y por tanto más llamativo.
+Como explicaban 
+, una de las aplicaciones prácticas a día de hoy de estos números primos 
+: la persona que quiere recibir un mensaje protegido con este algoritmo publicará el producto de dos grandes números primos como su "clave pública", algo que hace muy difícil su descifrado con fuerza bruta. 
+.  
+Una persona potencialmente interesada en esos mensajes cifrados tendría que tratar de adivinar los números primos adecuados con los que se generó la clave pública, 
+. 
+Además, cuando más grandes son los números primos utilizados, más potenciales combinaciones hay para crear la clave pública y 
+ esa clave pública. 
+El secreto del éxito aquí se debe a que no puede haber confusión en la factorización: mientras que si se usaran dos números cualesquiera podría haber otros números enteros con los que obtener la clave. Al usar números primos 
+, y eso hace que el descubrimiento de nuevos números primos sea especialmente interesante. 
+Las razones para seguir avanzando en esa búsqueda, 
+ el doctor Chris Caldwell, profesor de matemáticas en la Universidad de Tennessee son muy diversas, y 
+. 
+Algunos lo hacen por tradición, por esa afición a coleccionar objetos o hitos extraños, e incluso por la gloria (
+, encontrar un primo de Mersenne 
+) de tener tu nombre asociado al descubrimiento de un nuevo número primo de Mersenne.
+Sin embargo, es uno de esos procesos que 
+, algo que ha ocurrido con otros descubrimientos en el pasado que luego se aplicaron a desarrollos que ni siquiera estaban en mente de sus creadores cuando se produjeron los descubrimientos originales. Así pues, parece que no sería mala idea que también vosotros buscárais esos nuevos números primos, ¿no creéis?
+En Xataka | 

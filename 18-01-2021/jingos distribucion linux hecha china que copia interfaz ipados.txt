@@ -1,0 +1,24 @@
+jingos distribucion linux hecha china que copia interfaz ipados
+
+
+
+Eso de la imagen parece un iPad, pero no lo es: es una tableta con una nueva distribución Linux 
+. Los creadores de este desarrollo no parecen tener ningún problema en reconocer que 
+ que copia muchas de las opciones de la interfaz de esa plataforma. 
+La distribución está 
+ como el Surface Pro 6 que disponen de pantalla táctil, sobre todo porque dispone de soporte táctil y una serie de opciones que están preparadas para funcionar en ese modo tableta que plantea Apple en sus iPad. 
+No es la primera vez que vemos cómo una empresa china trata de ganar notoriedad 
+. Xiaomi lo ha hecho en numerosas ocasiones —hasta plagia el formato de las presentaciones de los de Cupertino— pero ahora la alternativa llega con un desarrollo software. 
+JingOS es una distribución Linux 
+. Sus desarrolladores 
+ cómo acabarán modificando el framework de Plasma Mobile para trasladarlo al llamado JDE (Jing Desktop Environment) este año, y ya han preparado un repositorio 
+ en el que, eso sí, de momento no han compartido apenas código.
+Lo llamativo de esta distribución es lo mucho que "se ha inspirado" en iPadOS, el sistema operativo de los iPad. Los responsables de esta distribución han creado iconos para las aplicaciones preinstaladas, pero también el panel de control y el centro de notificaciones 
+.
+Aunque la distribución está pensada para tabletas y convertibles, es posible usar gestos táctiles en el trackpad, y aunque la interfaz llama la atención 
+, desde el acceso a consola hasta la tienda de aplicaciones.
+JingOS v0.6 
+, y sus creadores indican que es compatible con la Surface Pro 6 y el Huawei Matebook 14. Puede que lo sea con otros dispositivos, pero los únicos reconocidos de momento por la empresa JingLing son esos dos.
+Será interesante ver la evolución de una distribución que 
+ para proteger su propiedad intelectual. De momento, eso sí, parece claro que la estética y el lenguaje de diseño de la empresa de Cupertino sigue siendo toda una inspiración para proyectos como este.
+Más información | 

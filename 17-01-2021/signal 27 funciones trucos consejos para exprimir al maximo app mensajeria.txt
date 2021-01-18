@@ -1,0 +1,87 @@
+signal 27 funciones trucos consejos para exprimir al maximo app mensajeria
+
+
+
+Te traemos una colección con 
+, la aplicación de mensajería instantánea centrada en la privacidad. Poco a poco, 
+ se está posicionando como una alternativa a WhatsApp para quienes buscan proteger al máximo su privacidad y que sus datos no acaben en los servidores de Facebook u otras grandes empresas.
+La idea de este artículo es que si eres un usuario que no domina la tecnología y decide darle una oportunidad a Signal, tengas todas las herramientas y consejos necesarios para 
+. Intentaremos cubrir tanto las principales funciones básicas como algunos trucos y funciones menos conocidas y algo más escondidas.
+Nosotros hemos intentado que el artículo sea interesante y útil tanto para los principiantes como para los usuarios más avanzados, que puedan descubrir alguna cosa que quizá se les había pasado por alto. Pero como siempre decimos en Xataka Basics, si eres un experto en Signal y crees que nos hemos dejado algo importante, 
+ para que todos los lectores puedan beneficiarse de los conocimientos de nuestros xatakeros.
+Tener una conversación ordenada es muy importante en ocasiones. Eso es fácil si utilizas las funciones de llamada de voz o videollamada, pero en las conversaciones de texto puede ser algo más complicado en ocasiones. Por eso, es útil saber que Signal también tiene la opción de 
+, de forma que cuando publiques una respuesta aparezca también el mensaje al que has respondido. 
+Para ello, tienes que seleccionar el mensaje al que quieras responder. Arriba tendrás varios botones, y tienes que pulsar al de la flecha a la izquierda. Entonces, verás un cuadro con ese mensaje, y debajo podrás escribir la respuesta.
+Signal también tiene un sistema de 
+, pero para los mensajes. Son muy fáciles de utilizar, sólo tienes que mantener pulsado el dedo sobre un mensaje, y se abrirá un menú con las reacciones para que elijas la que quieras utilizar. Rápido y sencillo.
+Si eres un amante del modo oscuro en todas las aplicaciones, cuando instales Signal seguro que quieres configurarlo también. Pues no es problema, porque esto es algo que vas a poder hacer de una manera extremadamente sencilla.
+Si se da el caso en el que utilizas Signal solo para hablar con una o dos personas, es posible que quieras tener en el escritorio de tu móvil no un acceso directo para abrir la app, sino 
+ para no perder tiempo a la hora de seguir hablando con él. Esto es algo que se hace fácilmente.
+Todos escribimos cosas por error o de las que nos arrepentimos enseguida, y para esos casos, aplicaciones como Signal permiten borrar los mensajes enviados ya no solo a nivel local, sino 
+. Evidentemente, esto será más efectivo si lo haces inmediatamente, porque pasado un tiempo se dejará de poder. Además, a las otras personas les aparecerá un indicador de que has borrado un mensaje.
+Lo único que debes hacer es pulsar sobre un mensaje para seleccionarlo. Entonces, arriba 
+ con el icono de la papelera, y cuando te aparezca la ventana preguntándote si quieres borrar el mensaje, elige la opción de 
+.
+ 
+Un elemento bastante molesto de las aplicaciones de mensajería son las notificaciones que te avisan de cuando un nuevo contacto se ha unido a ellas. Estas notificaciones 
+, y por supuesto también 
+. Eso sí, cuando las desactives no te olvides de revisar quién ha llegado a Signal revisando los contactos de vez en cuando.
+Y ya que en el paso anterior hemos entrado en la configuración de 
+, también puedes pararte un rato más para 
+. Por ejemplo, puedes activar o desactivar todas las notificaciones en sí, pero también desactivar elementos concretos como la vibración o los sonidos en el chat. Las notificaciones de llamadas también se configuran aparte.
+También puedes cambiar el 
+, que es el tono que suena cuando recibes una notificación. Además, en 
+ puedes 
+, para que este tenga uno determinado que te permita saber que se trata de un mensaje de Signal sin necesitar mirar a la pantalla. Eso sí, el poder mostrarlo dependerá de si tu móvil permite estos LEDS.
+Dentro de la configuración de 
+ hay otro elemento importante, y que es fácil pasar por alto. 
+. Esto quiere decir que cuando despliegues las notificaciones de tu móvil, podrás determinar qué es lo que se muestra en pantalla.
+Esto también es útil como complemento para securizar el contenido de tus chats frente a personas que puedan coger tu móvil. Por defecto, todas las apps de mensajería muestran quién te manda el mensaje y el contenido de este mensaje, pero 
+, de forma que sólo aparezca que tienes un mensaje de Signal sin especificar nada más.
+Una de las funciones más importantes y básicas de cualquier aplicación de mensajería es la posibilidad de 
+, de forma que estos aparezcan siempre arriba del todo y no se pierdan si tienes muchas otras conversaciones.
+También vas a poder hacer lo contrario, archivar las conversaciones para que estas no aparezcan en la pantalla principal. Aquí, la forma de proceder es la misma, debes mantener el dedo pulsado sobre un chat y 
+ que aparece arriba con el icono de una caja.
+Cuando lo hagas, en la parte inferior te aparecerá un indicador que te dice cuántos chats tienes archivados, y al pulsar sobre él podrás acceder a ellos para consultarlos siempre que quieras. Lo único que cambia es que estos no aparecerán en la pantalla principal.
+Si estás en Signal, es porque buscas privacidad, y si buscas privacidad, lo primero es proteger tus mensajes de los ojos de cualquier persona que pueda coger tu móvil. Para ello, Signal te permite 
+, con la que la app se bloqueará cuando apagues la pantalla o cuando esta lleve determinado tiempo apagada.
+La autenticación en dos pasos suele hacerse con envíos de SMS. Y eso está bien para que no accedan a tu cuenta de forma remota, aunque es menos efectivo cuando alguien te roba el móvil o tiene acceso a tu SIM. La alternativa de Signal es permitirte 
+, que tendrás que introducir tras iniciar sesión con tus credenciales para verificar que eres tú.
+En la misma sección de 
+ dentro de los ajustes de privacidad, abajo del todo, 
+. Con ella, cuando reinstales la aplicación o la instales en otro móvil, para poder volver a utilizar tu número de teléfono para iniciar sesión necesitarás escribir también tu PIN. Esto es útil para que 
+ a tu cuenta sin saber el PIN.
+Lo malo de aquí es que 
+ cuando vuelvas a instalar la aplicación, ya que si lo olvidas, tu cuenta quedará bloqueada durante siete días. En cualquier caso, es una buena opción para añadir otra capa de seguridad, aunque debes intentar que el PIN no pueda ser adivinado por ingeniería social. Nada de fechas de cumpleaños.
+Como ya habrás podido adivinar del mensaje anterior, Signal es un poco más complejo a la hora de utilizarse en varios dispositivos, ya que no estás mandando tus datos ni tus conversaciones al servidor de sus responsables. Pero pese a esto, 
+ para poder utilizarlos en más a la vez. La opción la tienes en la sección de 
+ de los ajustes, donde con el símbolo  + de suma puedes iniciar el proceso de añadir otros mediante QR.
+En las aplicaciones de mensajería se tienden a mandar muchas cosas, como fotos, vídeos o incluso archivos pesados. Y si tienes una tarifa con datos limitados y no tienes cuidado ni una WiFi cerca, puedes pegarle un buen mordisco a estos datos sin darte cuenta. Para ello, existe la posibilidad de 
+, de manera que lo que quede fuera tengas que pulsar para descargarlo.
+Otra curiosa medida de privacidad que implemente Signal es la de permitirte 
+, de esta manera podrás hacer las fotos un poco más anónima. Es algo muy sencillo que está dentro de las opciones de edición. Podrás emborronar toda una cara poniendo un cuadrado, o marcar zonas borrosas a mano con el dedo.
+Cuando vas a enviar una foto, en la pantalla previa donde puedes aplicar filtros también vas a poder 
+. Abajo a la izquierda tendrás el icono de un infinito con una flecha circular, y si pulsas sobre él, el infinito cambiará por un uno, señal de que sólo se podrá ver una única vez antes de desaparecer.
+Y ya que estamos hablando de esa pantalla que ves antes de enviar una foto cuando ya la has elegido, debes saber que 
+ que puedes encontrar en otras aplicaciones de mensajería. Estas te van a servir para poder personalizar tu foto al máximo antes de mandarla.
+Además de la opción de emborronado, también vas a ver una flecha hacia abajo para descargar la foto a tu móvil, y opciones para añadir texto o dibujar a mano sobre la imagen. También 
+ para decorarla, o recortarla para que tenga unas dimensiones determinadas.
+El que los mensajes de un chat sean efímeros y desaparezcan pasados determinado tiempo es una útil medida de privacidad que, en cierto modo, la mayoría de apps de mensajería implementan. Pero 
+ a la hora de determinar cuánto tiempo tarda un mensaje en desaparecer.
+Signal permite que el historial de una conversación tenga un número determinado de mensajes. Cuando configuras este número y llegas a él, cada vez que escribas un nuevo mensaje se irá borrando el último del historial. Una manera de que tus conversaciones sean efímeras sin llegar a perder el contexto de la conversación.
+Volvemos a retomar las opciones de privacidad de Signal, que no son pocas. Otra de las más notables es la posibilidad de 
+, algo muy similar a lo que también se puede hacer en Snapchat. Con esta opción activa, nadie podrá hacer capturas de lo que les has dicho cuando estés charlando con ellos.
+Justo debajo de esta opción puedes 
+, que evitará que el teclado que tienes instalado en tu móvil recopiles lo que escribes mientras usas Signal. Por defecto, estos teclados suelen recopilar lo que escribes para alimentar su algoritmo de teclado predictivo, y con esta función activa Signal será una excepción.
+Signal es una aplicación con un cifrado de extremo a extremo, pero también ofrece otra capa de seguridad más para 
+ y que otros accedan a tu conversación, algo esencial para conversaciones sensibles. Para ello, Signal 
+.
+Cuando realizas una llamada de voz a través de una aplicación, el dispositivo de la persona que llama establece una comunicación con la que recibe la llamada, y en este intercambio se revelan las IPs. Para evitar que esto sea un problema, también tienes la opción de 
+, y que así el dispositivo de la otra persona no llegue a saber tu IP, sino la de los servidores de la app.
+En las mismas opciones de 
+ donde has ido antes, justo debajo de la opción de 
+, 
+. Desactivando la primera, tus interlocutores no podrán saver cuándo has leído un mensaje, no verán ese segundo check, y con la segunda opción no les aparecerá una indicación en tiempo real cuando estés escribiéndoles.
+Signal también puede hacer las veces de aplicación de notas, y 
+ para que puedas acceder a ellos siempre que quieras. Para hacerlo, solo tienes que ir a la función de iniciar un nuevo chat y elegirte a ti mismo para empezar a hablarte, y a anotar ahí cosas que quieras recordar.
+Las aplicaciones de mensajería normales, guardan copias de seguridad en sus servidores para que puedas recuperar todos tus datos cuando vuelvas a iniciar sesión en otro dispositivo. Pero Signal no es una app de mensajería normal, y los datos los guarda en tu propio móvil, para que puedas hacer con ellos lo que quieras... incluyendo pasarlos manualmente al otro dispositivo donde vas a instalarlo.
